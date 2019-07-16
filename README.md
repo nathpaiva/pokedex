@@ -4,7 +4,7 @@ A ideia desse projeto é ajudar na mentoria de pessoas que tenham o interesse em
 
 A seguir terá um passo a passo de qual caminho deve ser seguido para desenvolver o projeto e cada nível que deve ser alcançado, com isso você pode ter uma idéia do que cada nível deve entregar em uma empresa.
 
-Como o próprio nome diz, o objetivo final é entregar uma pokedex, o layout disso eu vou enviar por zeplin, então por favor [entrem em contato comigo por issue](https://github.com/nathpaiva/pokedex/issues) ou [por email, hello@nathpaiva.com](mailto:hello@nathpaiva.com).
+Como o próprio nome diz, o objetivo final é entregar uma pokedex, o layout disso eu vou enviar por zeplin, então por favor [entrem em contato comigo por issue](https://github.com/nathpaiva/pokedex/issues/1) ou [por email, hello@nathpaiva.com](mailto:hello@nathpaiva.com).
 
 Mas para ter uma ideia, essa é uma amostra do layout:
 
@@ -18,7 +18,7 @@ Sim, no ínicio será um layout para mobile, e depois vamos evoluir ele para um 
 Bom, vamos começar. Depois de pedir o acesso ao [zeplin, lembrem de baixar o aplicativo](https://zeplin.io/), vou criar um link para cada passo que deve ser seguido, começando com:
 
 - [Início](https://github.com/nathpaiva/pokedex/blob/master/INICIO.md)
-- Estágio
+- [Estágio](https://github.com/nathpaiva/pokedex/blob/master/ESTAGIO.md)
 - Júnior
 - Pleno
 - Senior
