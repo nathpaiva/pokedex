@@ -17,6 +17,7 @@ Sim, no ínicio será um layout para mobile, e depois vamos evoluir ele para um 
 
 Bom, vamos começar. Depois de pedir o acesso ao [zeplin, lembrem de baixar o aplicativo](https://zeplin.io/), vou criar um link para cada passo que deve ser seguido, começando com:
 
+- [Início](https://github.com/nathpaiva/pokedex/blob/master/INICIO.md)
 - Estágio
 - Júnior
 - Pleno
