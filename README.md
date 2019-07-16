@@ -13,6 +13,8 @@ Mas para ter uma ideia, essa é uma amostra do layout:
 Claro, não fui eu quem criou esse layout, eu peguei ele no [sketch app sources, iOS Pokedex App Sketch Resource
 ](https://www.sketchappsources.com/free-source/3989-pokedex-app-sketch-freebie-resource.html).
 
+Sim, no ínicio será um layout para mobile, e depois vamos evoluir ele para um layout desktop, ok?
+
 Bom, vamos começar. Depois de pedir o acesso ao [zeplin, lembrem de baixar o aplicativo](https://zeplin.io/), vou criar um link para cada passo que deve ser seguido, começando com:
 
 - Estágio
@@ -21,3 +23,5 @@ Bom, vamos começar. Depois de pedir o acesso ao [zeplin, lembrem de baixar o ap
 - Senior
 
 Provavelmente vou escrevendo cada estágio de acordo com cada pessoa que vier buscar ajuda na mentoria.
+
+Para tirar dúvidas pode abrir um issue no github, irei responder por lá, e caso você queira ser uma pessoa mentorada por mim, pretendo marcar dias e horários na semana para gente trocar idéia.
