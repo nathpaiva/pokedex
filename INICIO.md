@@ -34,7 +34,7 @@ A IDE usamos para poder gerenciar nossos arquivos e escrever nosso código. Hoje
 - [Atom](https://atom.io/)
 - [Notepad++](https://notepad-plus-plus.org/download/v7.7.1.html)
 
-Enfim, vocês podem pesquisar e ver qual vocês tem maior interesse. Esses são algumas que lembrei.
+Enfim, vocês podem pesquisar e ver qual vocês tem maior interesse. Esses são alguns que lembrei.
 
 ## Browser
 
