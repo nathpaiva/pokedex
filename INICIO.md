@@ -4,21 +4,21 @@ Simplesmente porque podemos utilizar a [API publica da pokeAPI](https://pokeapi.
 
 # O que é front-end?
 
-Para iniciar vou passar uma idéia do que é ser `front-end` e qual o stup inicial do projeto.
+Para iniciar vou passar uma idéia do que é ser `front-end` e qual o setup inicial do projeto.
 
 De forma bem simples, ser `front-end` é dar vida ao que é desenhado por um designer, é dar vida a produtos de forma que o usuário entenda como deve usa-lo.
 
-Com esse último ponto, `dar vida a produtos de forma que o usuário entenda como deve usa-lo`, esse é um ponto muito importante no muito da web, no mundo do desenvolvimento.
+Com esse último ponto, `dar vida a produtos de forma que o usuário entenda como deve usa-lo`, esse é um ponto muito importante no mundo da web, no mundo do desenvolvimento.
 
 Geralmente, se não na maioria das vezes, desenvolvemos para pessoas. Sendo assim temos que garantir que o que as pessoas estão usando é intuitivo e bem estruturado. Precisamos nos atentar aos detalhes pois deixar uma aplicação visualmente agradável de se ver, já ajuda na usabilidade.
 
-# Idéria do projeto
+# Ideia do projeto
 
-A idéia desse projeto, é se atentar na qualidade do códico e do conteúdo final desenvolveido. Não vamos focar em nenhum `framework` ou `lib`, se você quer aprender algo relacionado, pode usar o projeto como base e tirar dúvidas, porém não é esse o foco da iniciativa.
+A ideia desse projeto, é se atentar na qualidade do código e do conteúdo final desenvolveido. Não vamos focar em nenhum `framework` ou `lib`, se você quer aprender algo relacionado, pode usar o projeto como base e tirar dúvidas, porém não é esse o foco da iniciativa.
 
-# Stup
+# Setup
 
-Como não usaremos nenhum `framework` ou `lib`, nosso stup incial é somente um computador, com uma IDE e um browser.
+Como não usaremos nenhum `framework` ou `lib`, nosso setup incial é somente um computador, com uma IDE e um browser.
 
 ## Computador
 
@@ -46,7 +46,7 @@ Geralmente ninguém usa o Edge ou o Internet Explorer, caso você use um deles a
 
 ## Começando...
 
-Agora chega de bla bla bla e vamos ao desafio. Como já mencionei no Readme, a idéria é desenvolver o APP da Pokedex somente com HTML, CSS e JavaScript.
+Agora chega de bla bla bla e vamos ao desafio. Como já mencionei no Readme, a ideia é desenvolver o APP da Pokédex somente com HTML, CSS e JavaScript.
 
 Então cada nível terá o seu desafio:
 
